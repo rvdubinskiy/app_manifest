@@ -1,7 +1,5 @@
 {
   "url": "https://github.com/app_manifest",
-  "name": "Titscoin",
-  "iconUrl": "",
-  "termsOfUseUrl": "",
-  "privacyPolicyUrl": ""
+  "name": "$TITS Bot",
+  "iconUrl": "https://rvdubinskiy.github.io/app_manifest/logo.png",
 }
